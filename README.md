@@ -1,4 +1,4 @@
 emo_fc
 ======
 
-Emotion detection from face
+Emotion detection from 
